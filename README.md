@@ -13,6 +13,10 @@ This report presents a comprehensive analysis of customer churn for e-commerce b
 2. Conduct a thorough review of the feedback system to address underlying issues.
 3. Prioritize effective complaint management to reduce churn.
 
+## Churn Distribution
+
+[View Interactive Pie Chart](https://comeonkrish.github.io/Customer_Churn_Analysis-for-E-Commerce-Businesses/Interactive Graphs/churn_distribution.html)
+
 ## Business Problem
 For e-commerce businesses, customer retention is crucial, as retaining existing customers is often more cost-effective than acquiring new ones. High churn rates can negatively impact revenue, growth, and long-term profitability. Despite various efforts to engage customers, a significant number of them still choose to leave.
 
